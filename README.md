@@ -2,6 +2,8 @@
 
 ### Код
 
+Основные файлы с кодом, при помощи которого был создан итоговый набор данных.
+
 Порядок файлов: Translator, betterURL, betterParser, Lemmatizer, FNet.
 
 "Translator.ipynb" содержит реализацию перевода при помощи DeepL Translate;
